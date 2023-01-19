@@ -1,0 +1,14 @@
+studentid = "hello world"
+print(isinstance(a,str))
+
+bid = 50
+print(isinstance(b,int))
+
+cid = 20.55
+print(isinstance(c,float))
+
+did = True
+print(isinstance(d,bool))
+a
+e = 1A
+print(isinstance(e,complex))
